@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend/React Developer
 ------------------------
 
-Enjoying be a part of IT Industry with open door to endless knowledge. Like what I’m doing and I do what I like, Keep It Simple (K.I.S).
+Enjoying be a part of IT Industry with open door to endless knowledge. Like what I’m doing and do what I like, Keep It Simple (K.I.S).
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [oprokopieva382@gmail.com](mailto:oprokopieva382@gmail.com)
