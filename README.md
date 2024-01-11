@@ -6,10 +6,10 @@ Full Stack Developer (MERN)
 
 Enjoying be a part of IT Industry with open door to endless knowledge. Like what I’m doing and do what I like, Keep It Simple (K.I.S).
 
-* 🌍  I'm based in I'm based in Florida
+* 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [MyPortfolio](http://p-o-r-t-f-o-l-i-o-2023.netlify.app/)
 * ✉️  You can contact me at [oprokopieva382@gmail.com](mailto:oprokopieva382@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborate on a projects
 * ⚡  Shhh.... I am also yoga ninja on a quest for inner peace and outdoor adventures. My mat and I have a love story, but nature steals my heart every time.
 
 ### Skills
